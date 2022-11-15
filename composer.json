@@ -1,0 +1,19 @@
+{
+    "name": "supabase/functions",
+    "description": "Client library for supabase functions",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Supabase\\FunctionsPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel Lee"
+        }
+    ]
+}
