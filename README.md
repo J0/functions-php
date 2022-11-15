@@ -1,6 +1,6 @@
 # Supafunc
 
-PHP client for [Supabase](https://supabase.io) Functions. Description taken from
+PHP client for [Supabase](https://supabase.io) Functions.(WIP) untested,do not use for now. Will edit and finalize very soon.
 
 
 ## Installation
